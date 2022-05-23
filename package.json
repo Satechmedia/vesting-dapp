@@ -13,16 +13,20 @@
   "dependencies": {
     "@ethersproject/contracts": "^5.4.1",
     "@ethersproject/providers": "^5.4.5",
+    "@types/npm": "^7.19.0",
     "@web3-react/core": "^6.1.9",
     "@web3-react/injected-connector": "^6.0.7",
     "@web3-react/walletconnect-connector": "^6.2.4",
+    "classnames": "^2.3.1",
+    "cx": "^22.5.2",
     "dayjs": "^1.10.7",
     "ethers": "^5.4.7",
     "formular": "^3.0.1",
-    "next": "^11.1.4",
+    "next": "^12.1.6",
     "react": "^17.0.2",
     "react-date-picker": "^8.3.4",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "type": "^2.6.0"
   },
   "devDependencies": {
     "@typechain/ethers-v5": "^7.1.2",
@@ -36,7 +40,7 @@
     "glob": "^7.2.0",
     "sass": "^1.39.0",
     "stylelint": "^13.13.1",
-    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-rational-order": "^0.0.4",
     "stylelint-scss": "^3.20.1",
     "typechain": "^5.1.2",
     "typescript": "^4.4.2",
