@@ -19,7 +19,7 @@
     "dayjs": "^1.10.7",
     "ethers": "^5.4.7",
     "formular": "^3.0.1",
-    "next": "^11.1.2",
+    "next": "^11.1.4",
     "react": "^17.0.2",
     "react-date-picker": "^8.3.4",
     "react-dom": "^17.0.2"
@@ -27,8 +27,8 @@
   "devDependencies": {
     "@typechain/ethers-v5": "^7.1.2",
     "@types/react": "17.0.19",
-    "chokidar": "^3.5.2",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "chokidar": "^3.5.2",
     "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.1.0",
@@ -39,7 +39,7 @@
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-scss": "^3.20.1",
     "typechain": "^5.1.2",
-    "typescript": "4.4.2",
+    "typescript": "^4.4.2",
     "yargs": "^17.2.1"
   }
 }

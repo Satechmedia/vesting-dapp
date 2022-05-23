@@ -1,4 +1,4 @@
-import type { CPOOL, AutoVesting, ManualVesting } from './types'
+//import type { CPOOL, AutoVesting, ManualVesting } from './types'
 
 import cpoolAbi from './abis/CPOOL.json'
 import autoVestingAbi from './abis/AutoVesting.json'
