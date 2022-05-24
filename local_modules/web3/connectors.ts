@@ -8,7 +8,7 @@ export enum ConnectorNames {
 }
 
 const injected = new InjectedConnector({
-  supportedChainIds: [ 1, 3, 4, 5, 42, 56, 97 ],
+  supportedChainIds: [ 1, 3, 4, 5, 42, 56, 97, ],
 })
 
 const walletconnect = new WalletConnectConnector({
@@ -19,7 +19,7 @@ const walletconnect = new WalletConnectConnector({
     97: 'https://bsc-testnet.web3api.com/v1/NVFEZF1BHV9NDSBCIHCPNAA6GSP1XRYNDU',
   },
   qrcode: true,
-  pollingInterval: 12000,
+  // pollingInterval: 12000,
 })
 
 
