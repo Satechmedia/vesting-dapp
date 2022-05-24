@@ -16,6 +16,7 @@ const walletconnect = new WalletConnectConnector({
     1: 'https://mainnet.infura.io/v3/84842078b09946638c03157f83405213',
     4: 'https://rinkeby.infura.io/v3/84842078b09946638c03157f83405213',
     42: 'https://kovan.infura.io/v3/84842078b09946638c03157f83405213',
+    97: 'https://bsc-testnet.web3api.com/v1/NVFEZF1BHV9NDSBCIHCPNAA6GSP1XRYNDU',
   },
   qrcode: true,
   pollingInterval: 12000,
